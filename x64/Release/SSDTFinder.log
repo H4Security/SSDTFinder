@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\me\source\repos\ssdtfinder\source.cpp(117): warning C4477: 'printf' : format string '%jx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'UINT'
+  c:\users\me\source\repos\ssdtfinder\source.cpp(117): note: consider using '%x' in the format string
+  c:\users\me\source\repos\ssdtfinder\source.cpp(117): note: consider using '%I32x' in the format string
+c:\users\me\source\repos\ssdtfinder\source.cpp(170): warning C4477: 'printf' : format string '%jx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'DWORD'
+  c:\users\me\source\repos\ssdtfinder\source.cpp(170): note: consider using '%lx' in the format string
+  Generating code
+  Finished generating code
+  2 of 7 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  SSDTFinder.vcxproj -> C:\Users\me\source\repos\SSDTFinder\x64\Release\SSDTFinder.exe

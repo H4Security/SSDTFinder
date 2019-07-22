@@ -1,0 +1,5 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _VMMDLL_Initialize referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _VMMDLL_Close referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _VMMDLL_MemRead referenced in function _main
+vmm.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\me\source\repos\SSDTFinder\Debug\SSDTFinder.exe : fatal error LNK1120: 3 unresolved externals

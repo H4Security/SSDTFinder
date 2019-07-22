@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\me\source\repos\ssdtfinder\source.cpp(120): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\me\source\repos\ssdtfinder\source.cpp(130): warning C4477: 'printf' : format string '%jx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'DWORD'
+  c:\users\me\source\repos\ssdtfinder\source.cpp(130): note: consider using '%lx' in the format string
+c:\users\me\source\repos\ssdtfinder\source.cpp(139): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\me\source\repos\ssdtfinder\source.cpp(215): warning C4477: 'printf' : format string '%jx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'UINT'
+  c:\users\me\source\repos\ssdtfinder\source.cpp(215): note: consider using '%x' in the format string
+  c:\users\me\source\repos\ssdtfinder\source.cpp(215): note: consider using '%I32x' in the format string
+c:\users\me\source\repos\ssdtfinder\source.cpp(271): warning C4477: 'printf' : format string '%jx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'DWORD'
+  c:\users\me\source\repos\ssdtfinder\source.cpp(271): note: consider using '%lx' in the format string
+c:\users\me\source\repos\ssdtfinder\source.cpp(167): warning C4101: 'pFunction2': unreferenced local variable
+  SSDTFinder.vcxproj -> C:\Users\me\source\repos\SSDTFinder\x64\Debug\SSDTFinder.exe
